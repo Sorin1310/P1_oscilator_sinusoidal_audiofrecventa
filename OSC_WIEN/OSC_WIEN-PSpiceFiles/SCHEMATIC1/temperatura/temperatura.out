@@ -1,0 +1,509 @@
+
+**** 01/21/26 18:18:50 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\temperatura.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "temperatura.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "c:/users/hp-pc/desktop/lib_modelepspice_anexa_1/modele_a1_lib/bc846b.lib" 
+.LIB "c:/users/hp-pc/desktop/lib_modelepspice_anexa_1/modele_a1_lib/bc856b.lib" 
+* From [PSPICE NETLIST] section of C:\SPB_Data\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 100m 0 
+.TEMP 0 25 70
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source OSC_WIEN
+C_C1         0 N259788  10n  TC=0,0 
+R_R1         N2595951 N259788  5.3k TC=0,0 
+R_R3         N259806 N259788  5.3k TC=0,0 
+C_C2         N259810 N260764  10n  TC=0,0 
+R_R5         0 N259988  3.9k TC=0,0 
+R_R6         N260034 N2598620  150 TC=0,0 
+Q_Q7         N259988 N259988 N2598620 QBC846B 
+Q_Q8         N260255 N259988 N2599231 QBC846B 
+R_R7         N260034 N2599231  150 TC=0,0 
+Q_Q9         N261078 N259988 N2600621 QBC846B 
+Q_Q10         N260764 N259988 N2600921 QBC846B 
+R_R8         N260034 N2600621  68 TC=0,0 
+R_R9         N260034 N2600921  22 TC=0,0 
+R_R10         N260359 N260255  100 TC=0,0 
+R_R11         N260255 N260366  100 TC=0,0 
+Q_Q3         N260440 N259788 N260359 QBC846B 
+Q_Q4         N260432 N260543 N260366 QBC846B 
+Q_Q2         N2603962 N260432 N260432 QBC856B 
+Q_Q1         N2604262 N260432 N260440 QBC856B 
+R_R12         N2604262 N2604770  100 TC=0,0 
+R_R13         N2603962 N2604930  100 TC=0,0 
+R_R14         N2604930 N260539  100 TC=0,0 
+R_R15         N2604770 N260539  100 TC=0,0 
+X_R16         N260543 N260543 0 POT PARAMS: SET=0.123 VALUE=10k
+R_R17         N260543 N260745  1.8k TC=0,0 
+R_R18         N260745 N260749  100 TC=0,0 
+R_R19         N260749 N260764  1k TC=0,0 
+D_D1         N260764 N260749 D1N4148 
+D_D2         N260749 N260764 D1N4148 
+Q_Q5         N261078 N260440 N261160 QBC856B 
+Q_Q6         N260539 N261078 N260764 QBC846B 
+D_D3         N260539 N261160 D1N4148 
+C_C3         N260440 N261078  47p  TC=0,0 
+R_R22         0 N261893  2.7k TC=0,0 
+R_R23         0 N261893  2.7k TC=0,0 
+V_V1         N260539 0 13
+R_R24         0 N262462  2.7k TC=0,0 
+R_R25         0 N262462  2.7k TC=0,0 
+V_V2         0 N260034 13
+X_R26         0 N270892 N260764 POT PARAMS: SET=0.8 VALUE=10k
+X_D6         N260539 N261893 LED PARAMS: IS=2.0601e-026 RS=20  BV=5 IBV=5e-6   
++       
+X_D7         N262462 N260034 LED PARAMS: IS=2.0601e-026 RS=20  BV=5 IBV=5e-6   
++       
+R_R27         0 N270892  800 TC=0,0 
+X_R28         N259810 N259806 N259806 POT PARAMS: SET=1 VALUE=50k
+X_R29         N2595951 0 0 POT PARAMS: SET=1 VALUE=50k
+
+**** RESUMING temperatura.cir ****
+.END
+
+**** 01/21/26 18:18:50 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\temperatura.sim ] 
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               D1N4148         X_D6.model201   X_D7.model201   
+          IS    2.682000E-09   20.601000E-27   20.601000E-27 
+           N    1.836           2               2            
+         ISR    1.565000E-09                                 
+         IKF     .04417                                      
+          BV  100               5               5            
+         IBV  100.000000E-06    5.000000E-06    5.000000E-06 
+          RS     .5664         20              20            
+          TT   11.540000E-09                                 
+         CJO    4.000000E-12                                 
+          VJ     .5                                          
+           M     .3333                                       
+
+
+**** 01/21/26 18:18:50 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\temperatura.sim ] 
+
+
+ ****     BJT MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               QBC846B         QBC856B         
+               NPN             PNP             
+       LEVEL    1               1            
+          IS   18.220000E-15   20.140000E-15 
+          BF  324.4           315.3          
+          NF     .9932           .9974       
+         VAF   82              39.15         
+         IKF     .109            .079        
+         ISE  289.400000E-18    6.578000E-15 
+          NE    1.4             1.45         
+          BR    8.29            8.68         
+          NR     .9931           .9952       
+         VAR   17.9             9.5          
+         IKR     .09             .09         
+         ISC    9.982000E-12   16.330000E-15 
+          NC    1.763           1.15         
+         ISS    0               0            
+          RB   10              10            
+         RBM    5               5.000000E-06 
+         IRB    5.000000E-06    5.000000E-06 
+          RE     .649            .663        
+          RC     .7014           .718        
+         CJE   12.440000E-12   11.350000E-12 
+         VJE     .7579           .7071       
+         MJE     .3656           .3808       
+         CJC    3.347000E-12    6.395000E-12 
+         VJC     .5463           .4951       
+         MJC     .391            .44         
+        XCJC     .6193           .6288       
+         CJS    0               0            
+         VJS     .75             .75         
+         MJS     .333            .333        
+          FC     .979            .9059       
+          TF  490.800000E-12  654.600000E-12 
+         XTF    9.51            5.387        
+         VTF    2.927           6.245        
+         ITF     .3131           .2108       
+          TR   90.000000E-09   55.000000E-09 
+          KF    0               0            
+          AF    1               1            
+          CN    2.42            2.2          
+           D     .87             .52         
+
+
+**** 01/21/26 18:18:50 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\temperatura.sim ] 
+
+
+ ****     TEMPERATURE-ADJUSTED VALUES      TEMPERATURE =    0.000 DEG C
+
+
+******************************************************************************
+
+
+
+
+ **** DIODE MODEL PARAMETERS
+
+                   D1N4148     X_D6.model201  X_D7.model201 
+
+         IS        2.281E-10      2.144E-27      2.144E-27  
+         VJ        5.690E-01      1.024E+00      1.024E+00  
+        CJO        3.802E-12      0.000E+00      0.000E+00  
+         RS        5.664E-01      2.000E+01      2.000E+01  
+        IKF        4.417E-02      0.000E+00      0.000E+00  
+         BV        1.000E+02      5.000E+00      5.000E+00  
+
+
+ **** BJT MODEL PARAMETERS
+
+                   QBC846B        QBC856B                   
+
+         BF        3.244E+02      3.153E+02  
+        ISE        1.142E-17      2.903E-16  
+        VJE        8.037E-01      7.574E-01  
+        CJE        1.212E-11      1.100E-11  
+         RE        6.490E-01      6.630E-01  
+         RB        1.000E+01      1.000E+01  
+         BR        8.290E+00      8.680E+00  
+        ISC        7.666E-13      3.193E-16  
+        VJC        6.111E-01      5.645E-01  
+        CJC        3.178E-12      5.970E-12  
+         RC        7.014E-01      7.180E-01  
+        RBM        5.000E+00      5.000E-06  
+         IS        1.974E-16      2.182E-16  
+        ISS        0.000E+00      0.000E+00  
+        VJS        7.965E-01      7.965E-01  
+        CJS        0.000E+00      0.000E+00  
+      GAMMA        1.000E-11      1.000E-11  
+        RCO        0.000E+00      0.000E+00  
+         VO        1.000E+01      1.000E+01  
+
+
+**** 01/21/26 18:18:50 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\temperatura.sim ] 
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =    0.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N259788)    -.0197                   (N259806)    -.0197                       
+
+(N259810)    -.0197                   (N259988)  -11.8440                       
+
+(N260034)  -13.0000                   (N260255)    -.8399                       
+
+(N260359)    -.7087                   (N260366)    -.6747                       
+
+(N260432)   12.0160                   (N260440)   11.5290                       
+
+(N260539)   13.0000                   (N260543)     .0199                       
+
+(N260745)     .0575                   (N260749)     .0595                       
+
+(N260764)     .0804                   (N261078)     .8442                       
+
+(N261160)   12.2580                   (N261893)   10.1880                       
+
+(N262462)  -10.1880                   (N270892)     .0054                       
+
+(N2595951)-3.712E-09                  (N2598620)  -12.5570                      
+
+(N2599231)  -12.5540                  (N2600621)  -12.5740                      
+
+(N2600921)  -12.6080                  (N2603962)   12.7070                      
+
+(N2604262)   12.7060                  (N2604770)   12.8530                      
+
+(N2604930)   12.8530                  
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -3.453E-02
+    V_V2        -3.755E-02
+
+    TOTAL POWER DISSIPATION   9.37E-01  WATTS
+
+
+**** 01/21/26 18:18:50 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\temperatura.sim ] 
+
+
+ ****     TEMPERATURE-ADJUSTED VALUES      TEMPERATURE =   25.000 DEG C
+
+
+******************************************************************************
+
+
+
+
+ **** DIODE MODEL PARAMETERS
+
+                   D1N4148     X_D6.model201  X_D7.model201 
+
+         IS        2.268E-09      1.766E-26      1.766E-26  
+         VJ        5.051E-01      1.002E+00      1.002E+00  
+        CJO        3.985E-12      0.000E+00      0.000E+00  
+         RS        5.664E-01      2.000E+01      2.000E+01  
+        IKF        4.417E-02      0.000E+00      0.000E+00  
+         BV        1.000E+02      5.000E+00      5.000E+00  
+
+
+ **** BJT MODEL PARAMETERS
+
+                   QBC846B        QBC856B                   
+
+         BF        3.244E+02      3.153E+02  
+        ISE        2.323E-16      5.319E-15  
+        VJE        7.613E-01      7.109E-01  
+        CJE        1.242E-11      1.132E-11  
+         RE        6.490E-01      6.630E-01  
+         RB        1.000E+01      1.000E+01  
+         BR        8.290E+00      8.680E+00  
+        ISC        8.382E-12      1.249E-14  
+        VJC        5.511E-01      5.003E-01  
+        CJC        3.334E-12      6.363E-12  
+         RC        7.014E-01      7.180E-01  
+        RBM        5.000E+00      5.000E-06  
+         IS        1.339E-14      1.480E-14  
+        ISS        0.000E+00      0.000E+00  
+        VJS        7.535E-01      7.535E-01  
+        CJS        0.000E+00      0.000E+00  
+      GAMMA        1.000E-11      1.000E-11  
+        RCO        0.000E+00      0.000E+00  
+         VO        1.000E+01      1.000E+01  
+
+
+**** 01/21/26 18:18:50 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\temperatura.sim ] 
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   25.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N259788)    -.0197                   (N259806)    -.0197                       
+
+(N259810)    -.0197                   (N259988)  -11.8850                       
+
+(N260034)  -13.0000                   (N260255)    -.7957                       
+
+(N260359)    -.6641                   (N260366)    -.6297                       
+
+(N260432)   12.0590                   (N260440)   11.6120                       
+
+(N260539)   13.0000                   (N260543)     .0208                       
+
+(N260745)     .0597                   (N260749)     .0619                       
+
+(N260764)     .0835                   (N261078)     .8083                       
+
+(N261160)   12.2990                   (N261893)   10.0560                       
+
+(N262462)  -10.0560                   (N270892)     .0056                       
+
+(N2595951)-3.713E-09                  (N2598620)  -12.5550                      
+
+(N2599231)  -12.5520                  (N2600621)  -12.5740                      
+
+(N2600921)  -12.6100                  (N2603962)   12.7050                      
+
+(N2604262)   12.7040                  (N2604770)   12.8520                      
+
+(N2604930)   12.8530                  
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -3.437E-02
+    V_V2        -3.739E-02
+
+    TOTAL POWER DISSIPATION   9.33E-01  WATTS
+
+
+**** 01/21/26 18:18:50 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\temperatura.sim ] 
+
+
+ ****     TEMPERATURE-ADJUSTED VALUES      TEMPERATURE =   70.000 DEG C
+
+
+******************************************************************************
+
+
+
+
+ **** DIODE MODEL PARAMETERS
+
+                   D1N4148     X_D6.model201  X_D7.model201 
+
+         IS        6.245E-08      3.706E-25      3.706E-25  
+         VJ        3.880E-01      9.596E-01      9.596E-01  
+        CJO        4.322E-12      0.000E+00      0.000E+00  
+         RS        5.664E-01      2.000E+01      2.000E+01  
+        IKF        4.417E-02      0.000E+00      0.000E+00  
+         BV        1.000E+02      5.000E+00      5.000E+00  
+
+
+ **** BJT MODEL PARAMETERS
+
+                   QBC846B        QBC856B                   
+
+         BF        3.244E+02      3.153E+02  
+        ISE        1.796E-14      3.541E-13  
+        VJE        6.828E-01      6.247E-01  
+        CJE        1.297E-11      1.193E-11  
+         RE        6.490E-01      6.630E-01  
+         RB        1.000E+01      1.000E+01  
+         BR        8.290E+00      8.680E+00  
+        ISC        2.648E-10      2.487E-12  
+        VJC        4.409E-01      3.824E-01  
+        CJC        3.622E-12      7.084E-12  
+         RC        7.014E-01      7.180E-01  
+        RBM        5.000E+00      5.000E-06  
+         IS        5.896E-12      6.517E-12  
+        ISS        0.000E+00      0.000E+00  
+        VJS        6.738E-01      6.738E-01  
+        CJS        0.000E+00      0.000E+00  
+      GAMMA        1.000E-11      1.000E-11  
+        RCO        0.000E+00      0.000E+00  
+         VO        1.000E+01      1.000E+01  
+
+
+**** 01/21/26 18:18:50 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\temperatura.sim ] 
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   70.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N259788)    -.0197                   (N259806)    -.0197                       
+
+(N259810)    -.0197                   (N259988)  -11.9600                       
+
+(N260034)  -13.0000                   (N260255)    -.7149                       
+
+(N260359)    -.5825                   (N260366)    -.5474                       
+
+(N260432)   12.1390                   (N260440)   11.7650                       
+
+(N260539)   13.0000                   (N260543)     .0225                       
+
+(N260745)     .0638                   (N260749)     .0661                       
+
+(N260764)     .0890                   (N261078)     .7421                       
+
+(N261160)   12.3750                   (N261893)    9.8189                       
+
+(N262462)   -9.8189                   (N270892)     .0059                       
+
+(N2595951)-3.715E-09                  (N2598620)  -12.5520                      
+
+(N2599231)  -12.5490                  (N2600621)  -12.5730                      
+
+(N2600921)  -12.6130                  (N2603962)   12.7030                      
+
+(N2604262)   12.7020                  (N2604770)   12.8510                      
+
+(N2604930)   12.8520                  
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -3.409E-02
+    V_V2        -3.713E-02
+
+    TOTAL POWER DISSIPATION   9.26E-01  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 01/21/26 18:18:50 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\temperatura.sim ] 
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .13
+

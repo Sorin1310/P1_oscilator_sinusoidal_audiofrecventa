@@ -1,0 +1,382 @@
+INI File Location:C:\SPB_Data\cdssetup\OrCAD_Capture/16.6.0/capture.ini
+INFO(ORCAP-2191): Creating PSpice Netlist
+INFO(ORNET-1041): Writing PSpice Flat Netlist C:\P1_2025_431D_Brezeanu_Valentina_OW_N3_OrCad\Schematics\Osc_Wien-PSpiceFiles\SCHEMATIC1\SCHEMATIC1.net
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R3T, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R22, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R2_1, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R13, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R11, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R1, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on D4, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R20, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R3, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on D5, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R14, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on RX, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R2T1, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R12, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R1_1, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R2, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R4, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R2T, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+INFO(ORNET-1156): PSpice netlist generation complete
+Could not find C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB
+Could not find C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB
+Could not find C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\TCLSCRIPTS\CAPPSPICEMODELAPP\LED\HYBRID\SUPPORTFILES\LED.OLB
+Could not find C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\EVAL.OLB
+Could not find C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB
+Could not find C:\USERS\BREZE\ONEDRIVE\DESKTOP\CEF\MODELE PSPICE_ANEXA 1\LIB_MODELEPSPICE_ANEXA_1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\BC856B.OLB
+Could not find C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB
+Could not find C:\USERS\BREZE\ONEDRIVE\DESKTOP\CEF\MODELE PSPICE_ANEXA 1\LIB_MODELEPSPICE_ANEXA_1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\BC846B.OLB
+Could not find C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB
+INFO(ORCAP-2191): Creating PSpice Netlist
+INFO(ORNET-1041): Writing PSpice Flat Netlist d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\SCHEMATIC1.net
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R22, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R1, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R3, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R20, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R13, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on D5, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R2, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R2T, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R2T1, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R12, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R2_1, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R14, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R4, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on D4, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R11, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R3T, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on R1_1, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on RX, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+INFO(ORNET-1156): PSpice netlist generation complete
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(1.40, 6.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.20, 6.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.20, 6.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.20, 6.50)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.70, 5.30)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.20, 5.30)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.40, 5.30)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(4.00, 5.30)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.30, 5.30)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(1.60, 4.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(1.60, 4.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.10, 4.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(0.70, 4.70)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(1.60, 4.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(1.90, 4.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.30, 4.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(1.60, 4.80)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.20, 4.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(6.30, 4.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.50, 4.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(6.60, 4.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.50, 4.80)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.50, 4.80)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.30, 2.90)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.10, 4.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.00, 2.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.30, 2.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.90, 2.30)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.60, 1.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.90, 1.90)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.30, 2.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.90, 1.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.30, 1.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.30, 1.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.90, 1.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.90, 1.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.30, 0.60)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.30, 0.60)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.90, 0.60)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.90, 0.60)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.90, 0.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.10, 2.90)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.10, 2.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.10, 2.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.20, 2.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.70, 2.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(6.30, 2.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(6.30, 2.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(6.30, 3.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(6.70, 2.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(6.80, 2.50)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(2.30, 1.60)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.10, 4.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.10, 2.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.80, 4.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.80, 1.80)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.10, 1.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.10, 0.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.80, 2.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.80, 2.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(8.50, 2.70)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(8.50, 3.60)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(8.50, 3.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.10, 2.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.80, 1.60)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.80, 0.20)
+Created PSpice Modeling Application Data Folder d:/p2/osc_wien/osc_wien-PSpiceFiles/PSpiceModelApps-PSpiceFiles\PSpiceModelApps
+Placing symbol instance for model LED
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(9.10, 0.50)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(9.10, 1.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(9.10, 1.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(9.30, 1.60)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(9.20, 1.80)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(8.80, 1.90)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(8.60, 0.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(8.60, 1.70)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(8.60, 2.50)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(8.60, 1.70)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(8.60, 2.50)
+INFO(ORCAP-2191): Creating PSpice Netlist
+INFO(ORNET-1041): Writing PSpice Flat Netlist d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\SCHEMATIC1.net
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on D4, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on D5, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+INFO(ORNET-1156): PSpice netlist generation complete
+INFO(ORCAP-2191): Creating PSpice Netlist
+INFO(ORNET-1041): Writing PSpice Flat Netlist d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\SCHEMATIC1.net
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on D4, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on D5, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+INFO(ORNET-1156): PSpice netlist generation complete
+INFO(ORCAP-2191): Creating PSpice Netlist
+INFO(ORNET-1041): Writing PSpice Flat Netlist d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\SCHEMATIC1.net
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on D4, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on D5, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+INFO(ORNET-1156): PSpice netlist generation complete
+INFO(ORCAP-2191): Creating PSpice Netlist
+INFO(ORNET-1041): Writing PSpice Flat Netlist d:\p2\osc_wien\osc_wien-PSpiceFiles\SCHEMATIC1\SCHEMATIC1.net
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on D4, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+WARNING(ORNET-1119): The part/device cannot be simulated. No PSpiceTemplate found on D5, ignoring this part/device from simulation netlist. Use Place->PSpice Component...->Search to place simulation ready part
+INFO(ORNET-1156): PSpice netlist generation complete
