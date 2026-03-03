@@ -4,8 +4,8 @@ Acest proiect reprezintă documentația și proiectarea unui **oscilator de audi
 
 ## 🎯 Obiective și Cerințe
 * **Funcționalitate:** Generarea unui semnal sinusoidal stabil în gama de audiofrecvență.
-* **Cerințe tehnice:** * Tensiunea de alimentare: $V_{CC} = 12V$.
-    * Amplitudinea semnalului de ieșire: $V_{out} \geq 2V$ (vârf la vârf).
+* **Cerințe tehnice:** * Tensiunea de alimentare: $V_{CC} = 13V$.
+    * Amplitudinea semnalului de ieșire: $V_{out} \geq 0V$ (vârf la vârf).
     * Distorsiuni armonice reduse pentru o sinusoidă cât mai precisă.
 
 ---
