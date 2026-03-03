@@ -14,7 +14,6 @@ Acest proiect reprezintă documentația și proiectarea unui **oscilator de audi
 Proiectul acoperă atât partea de calcul teoretic, cât și simularea și proiectarea fizică:
 * **Analiză Teoretică:** Dimensionarea rețelelor de reacție (Wien, Dublu T sau Gamma).
 * **Simulare:** Verificarea schemei electrice și a punctelor statice de funcționare (PSF).
-* **Proiectare PCB:** Realizarea layout-ului pentru montajul fizic.
 * **Instrumente:** Utilizarea tehnicilor CAD pentru module electronice.
 
 ---
@@ -38,7 +37,6 @@ Documentația este organizată în capitole detaliate:
 ## 🚀 Cum se utilizează documentația
 1. **Consultă Schema Electrică:** Identifică valorile componentelor din capitolul dedicat.
 2. **Verifică Simulările:** Compară rezultatele tale cu graficele de semnal incluse în document.
-3. **Proiectare PCB:** Folosește indicațiile de layout pentru a minimiza zgomotul și interferențele.
 
 ---
 
